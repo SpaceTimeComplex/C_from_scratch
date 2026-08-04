@@ -2,6 +2,9 @@
 
 Credits to Codeacademy for providing lesson material.
 
+files with 'USEFUL' at the end signify there was information or insights that could help with future tasks/goals, or is worth remembering.
+
+
 # Tools
 
 ### Compiler:
