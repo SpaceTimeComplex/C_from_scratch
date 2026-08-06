@@ -1,0 +1,11 @@
+#ignore the compiled/ generated files everywhere
+*
+
+#but do not ignore dirs themselves (needed to look inside)
+!*/
+
+# whitelist actual source code and standard project files
+!*.c
+!*.h
+!README.md
+!.gitignore
